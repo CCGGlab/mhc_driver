@@ -1,13 +1,3 @@
----
-title: "Low immunogenicity of common cancer hot spot mutations resulting in false immunogenic selection signals"
-author: Jimmy Van den Eynden
-output: 
-  html_notebook:
-    number_sections: yes
-    toc: yes
-    toc_float: yes
----
-
 This notebook contains high level information on the bioinformatics pipeline that was used for the analysis reported in **Claeys A, Luijts T, Marchal K, Van den Eynden J. Low immunogenicity of common cancer hot spot mutations resulting in false immunogenic selection signals, 2021**
 
 # Environment 
